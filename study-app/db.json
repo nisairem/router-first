@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "1672181790923",
+      "name": "nisa irem ",
+      "surname": "yilmaz ",
+      "studentNo": "105",
+      "studentClass": "1/a",
+      "schoolName": "ataturk ilkokulu"
+    },
+    {
+      "id": "1672181812634",
+      "name": "ali",
+      "surname": "demir",
+      "studentNo": "109",
+      "studentClass": "1/a",
+      "schoolName": "ataturk ilkokulu"
+    },
+    {
+      "id": "1672181894649",
+      "name": "poyraz",
+      "surname": "Deniz",
+      "studentNo": "122",
+      "studentClass": "8/b",
+      "schoolName": "ataturk ilkokulu"
+    }
+  ]
+}
